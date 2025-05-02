@@ -1,4 +1,4 @@
-# Bruno Arruda
+# Bruno G
 
 **`Desenvolvedor Back-End`**
 
