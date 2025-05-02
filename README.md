@@ -2,7 +2,7 @@
 
 **`Desenvolvedor Back-End`**
 
-Olá, sou o Bruno Arruda, tenho 24 anos e sou aqui de Sampa(SP). Sou técnico em informatica para internet, formado pelo Senac São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho. Possuo certificações técnicas no desenvolvimento de back-end, front-end e mobile. 
+Olá, sou o Bruno Arruda, tenho 24 anos e sou aqui de Sampa (SP). Sou técnico em informatica para internet, formado pelo Senac São Paulo. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na Universidade Nove de Julho. Possuo certificações técnicas no desenvolvimento de back-end, front-end e mobile. 
 
 Além do desenvolvimento de software, estendi meus conhecimentos para a área da robótica, elevando minha paixão pelo hardware de computadores, através da programação com Arduíno. E também, ampliei meus conhecimentos no desenvolvimento de soluções em nuvem, através da Microsoft Azure. 
 
