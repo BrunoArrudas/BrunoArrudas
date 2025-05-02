@@ -1,4 +1,4 @@
-Olá, eu sou o Bruno G, Desenvolvedor Back-End, veja abaixo meu perfil:
+Olá, eu sou o Bruno G, Desenvolvedor Back-End, visualize abaixo meu perfil e repositórios:
 
 <!--
 **BrunoArrudas/BrunoArrudas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
