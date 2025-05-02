@@ -65,8 +65,7 @@ Me chamo Bruno G, tenho 24 anos. Sou técnico em informatica para internet, form
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
+    height="200"  
     src="https://github-readme-stats.vercel.app/api?username=BrunoArrudas&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
 
 
